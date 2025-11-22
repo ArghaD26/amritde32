@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rest API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amritde32](https://github.com/amritde32)
+- 👨‍💻 All of my projects are available at [https://github.com/ArghaD26](https://github.com/ArghaD26)
 
 - 📫 How to reach me **arghade@zohomail.in**
 
